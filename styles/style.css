@@ -1,0 +1,30 @@
+body {
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+p {
+	font-size: 1.2rem;
+}
+
+.first-header {
+	font-family: "Bungee", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	color: #fff;
+	padding: 1rem 0;
+}
+
+.main-section {
+	background-color: blue;
+}
+
+.second-header {
+	font-family: "Alfa Slab One", serif;
+	font-weight: 400;
+	font-style: normal;
+}
